@@ -1,12 +1,16 @@
 ##  About Me
 
-Hello, I am Mari (Marie-Louise), I’m an Agile Project Manager, Scrum Master, and Agile Coach with 10+ years leading enterprise transformations across cloud, cybersecurity, healthcare, life sciences, and insurance. I turn complex programs into predictable delivery—removing impediments, coaching collaboration, and building resilient, high-performing teams.
+Hello, I am Mari (Marie-Louise), I’m an Agile Project Manager, Scrum Master, Agile Coach, and Technical Solutions Manager with 15+ years leading enterprise transformations across cloud, cybersecurity, healthcare, life sciences, and insurance. I turn complex programs into predictable delivery—removing impediments, coaching collaboration, and building resilient, high-performing teams.
 
-Most recently I worked in a Cybersecurity Division, for a large US company, and was the Coach/Scrum Master for network/cloud security teams, other deparments under the CISO and worked with vendors like Accenture and Wiz to deliver initiatives at scale. My sweet spot is bridging Agile concepts with security & cloud programs.
+I currently work as an Technical Solutions Manager, I wear many hats—including Product Owner, Business Analyst, QA, UAT Lead, Release Coordinator, and Agile delivery lead. Working across the full product lifecycle has strengthened my ability to bridge business objectives with technical implementation while ensuring quality and customer value remain the focus.
 
-Recognized as a self-motivated servant leader, with strong Emotional Intelligence, Communication Skills, Time Management, and Interpersonal Skills, adept at guiding organizations and cross-functional software teams through Agile adoption and maturity using Scrum, Kanban, XP, and SAFe frameworks, with a proven ability to transition teams from Waterfall or ad hoc practices to predictable, efficient delivery
+Previously, I spent over four years in the Cybersecurity Division, for a large US company, serving as Scrum Master and Agile Coach for Network Security, Cloud Security, and other CISO organizations. I partnered with cross-functional teams and strategic vendors, including Accenture and Wiz, to deliver large-scale security and cloud initiatives. My passion lies in bringing Agile principles into highly technical environments where collaboration, transparency, and continuous improvement make the greatest impact.
 
-Orginally from Ireland, US Citizen since 2001. Light hearted personality yet serious when the situation requires it. Very organized, provide virtual/class room training & Workshops on Scrum/Kanban/Agile Estiamtion. Prefer to be embedded with teams to help them grow in their Agile Maturity
+
+I am recognized as a self-motivated servant leader with strong emotional intelligence, communication, facilitation, and organizational skills. I have successfully coached organizations through Agile adoption and maturity using Scrum, Kanban, XP, and SAFe, helping teams transition from Waterfall or ad hoc delivery to predictable, sustainable ways of working. I enjoy mentoring Scrum Masters, Product Owners, and delivery teams while fostering environments where people feel empowered to solve problems together.
+
+
+I bring a light-hearted personality, positive attitude, and sense of humor to my work while remaining focused and professional when the situation demands it. I enjoy facilitating workshops, delivering virtual and classroom training on Scrum, Kanban, Agile estimation, and Agile fundamentals, and I believe the best coaching happens by embedding with teams, building trust, and helping them continuously grow in their Agile maturity.
 
 ---
 
@@ -56,10 +60,11 @@ Orginally from Ireland, US Citizen since 2001. Light hearted personality yet ser
 ### Recent Professional Development
 - ✅ IBM DevOps, Cloud, and Agile Foundations
 - ✅ Introduction to Generative AI
+- ✅ H&R Block Income Tax Preparer
 ### Professional Technical Certifications
 - 🚧 CompTIA Security+  (In Progress)
 - 🚧 CCP - AWS Certified Cloud Practitioner (In Progress)
-- 🚧 H&R Block Income Tax Preparer (In Progress)
+
  
 ### Skills & Tools 
 **Agile Tools** 
