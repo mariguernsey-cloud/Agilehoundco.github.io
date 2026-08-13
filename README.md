@@ -188,9 +188,14 @@ Empathetic, Customer-Centric, Self-Motivated, Detail-Oriented, Organized & Colla
 ---
 
 ##  My Projects
-Upskilling on all things CyberSecuity, AI and the Cloud
+Upskilling on all things CyberSecuity, AI and the Cloud. 
+
 DevOps, DevSecOps, CI/CD implementaton
-Starting my own Company
+
+Starting my own Company - Guernsey Professional Services
+
+Learning to do Bookeeping and being a better Tax Preparer (Seasonal)
+
 Write a "How to Navigate Autism Services for your child" book
 
 ⬇️ Download Mari’s Info Collector (.bat file)](MarisBatFIle.bat)
