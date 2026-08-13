@@ -187,15 +187,12 @@ Problem Solving, Decision Making, Interviewing, Employee/Consultant Onboarding &
 Empathetic, Customer-Centric, Self-Motivated, Detail-Oriented, Organized & Collaborative
 ---
 
-##  My Projects
-Upskilling on all things CyberSecuity, AI and the Cloud. 
+## 🚀 My Projects
+I'm rarely learning or working on just one thing at a time. Current projects and areas I'm exploring include:
 
-DevOps, DevSecOps, CI/CD implementaton
-
-Starting my own Company - Guernsey Professional Services
-
-Learning to do Bookeeping and being a better Tax Preparer (Seasonal)
-
-Write a "How to Navigate Autism Services for your child" book
+🔐 Continuing to upskill in Cybersecurity, AI, Cloud, DevOps, DevSecOps, and CI/CD.
+💼 Building Guernsey Professional Services.
+📚 Continuing to develop my bookkeeping and tax preparation knowledge through seasonal tax work.
+✍️ Working toward writing a practical guide on "How to Navigate Autism Services for Your Child."
 
 ⬇️ Download Mari’s Info Collector (.bat file)](MarisBatFIle.bat)
