@@ -186,16 +186,16 @@ Jira, Confluence, Azure DevOps (TFS), Rally, Mural, Trello
 
 ### Collaboration & Communication
 
-= Microsoft Teams, SharePoint, Zoom, Outlook, PowerPoint, Word, Jive
-= Virtual & Classroom Training, Workshop Facilitation, Executive & Stakeholder Communication
+- Microsoft Teams, SharePoint, Zoom, Outlook, PowerPoint, Word, Jive
+- Virtual & Classroom Training, Workshop Facilitation, Executive & Stakeholder Communication
 
 ### Leadership & People Skills
 
 - Coaching & Mentoring, Servant Leadership, Stakeholder Management
 - Conflict Resolution, Facilitation, Active Listening, Interpersonal Communication
 - Critical Thinking, Problem Solving, Decision Making
-= Interviewing, Employee & Consultant Onboarding/Offboarding
-= Empathetic, Customer-Centric, Self-Motivated, Detail-Oriented, Organized & Collaborative
+- Interviewing, Employee & Consultant Onboarding/Offboarding
+- Empathetic, Customer-Centric, Self-Motivated, Detail-Oriented, Organized & Collaborative
 ---
 
 ## 🚀 My Projects
