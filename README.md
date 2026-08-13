@@ -94,8 +94,15 @@ That's Agile to me.
 
 ###  Professionally  
 
-- - Looking for roles with companies that are more secure in times of economic un stability
-- Prefer a role within a Cyber Security, Cloud, Generative AI division/department/team
+I'm always interested in hearing about interesting opportunities and connecting with people working in the Agile and technology space. I particularly enjoy roles where I can contribute as a Senior Scrum Master, Agile Delivery Lead, Agile Program/Project Manager, or Agile Coach.
+
+I'm at my best when I can get into the meat and potatoes of delivery. Give me multiple teams, competing priorities, cross-team dependencies, impediments, an unhealthy backlog, stakeholders who need alignment, teams at different levels of Agile maturity, or a delivery problem that needs untangling — that's where I add value.
+
+I bring a combination of Agile coaching, Scrum Mastery, project/program delivery, stakeholder management, QA/UAT, requirements, risk and dependency management, and organizational change experience. I can coach the team while still understanding that ultimately, something has to get delivered.
+
+I especially enjoy working in Cybersecurity, Cloud, DevOps, Healthcare, Financial Services, Insurance, and other complex or regulated environments. I've intentionally continued building my knowledge in emerging technology areas so I can better understand the world my teams work in — without pretending I need to be the engineer to be an effective Agile leader.
+
+I'm always happy to connect, compare notes, talk Agile, or hear about an interesting challenge. ☘️
   
 ###  Non-Profit  
 **Key Achievements:**  
