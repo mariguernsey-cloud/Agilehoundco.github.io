@@ -1,36 +1,102 @@
 ##  About Me
 
-Hello, I am Mari (Marie-Louise), I’m an Agile Project Manager, Scrum Master, and Agile Coach with 10+ years leading enterprise transformations across cloud, cybersecurity, healthcare, life sciences, and insurance. I turn complex programs into predictable delivery—removing impediments, coaching collaboration, and building resilient, high-performing teams.
+Hello, I’m Mari (Marie-Louise)
 
-Most recently I worked in a Cybersecurity Division, for a large US company, and was the Coach/Scrum Master for network/cloud security teams, other deparments under the CISO and worked with vendors like Accenture and Wiz to deliver initiatives at scale. My sweet spot is bridging Agile concepts with security & cloud programs.
+I'm an Agile practitioner through and through — Senior Scrum Master, Agile Coach, Agile Delivery Lead, Project/Program Manager, and occasionally the person asking, “Why exactly are we doing it this way?” 😄
+
+I have 10+ years of experience working with Agile teams and organizations across healthcare, life sciences, insurance, financial services, cybersecurity, cloud, and other complex enterprise environments. 
 
 Recognized as a self-motivated servant leader, with strong Emotional Intelligence, Communication Skills, Time Management, and Interpersonal Skills, adept at guiding organizations and cross-functional software teams through Agile adoption and maturity using Scrum, Kanban, XP, and SAFe frameworks, with a proven ability to transition teams from Waterfall or ad hoc practices to predictable, efficient delivery
 
-Orginally from Ireland, US Citizen since 2001. Light hearted personality yet serious when the situation requires it. Very organized, provide virtual/class room training & Workshops on Scrum/Kanban/Agile Estiamtion. Prefer to be embedded with teams to help them grow in their Agile Maturity
+But Agile, to me, has never been about running ceremonies.
+
+It's about people, flow, transparency, predictability, continuous improvement, and delivering something that actually provides value.
+
+### The meat and potatoes
+I've worked hands-on with Scrum Masters, Product Owners, Product Managers, Engineering teams, Security teams, business partners, vendors, and leadership.
+
+That has included:
+
+Coaching Scrum Masters and helping them grow beyond being meeting facilitators into true servant leaders and coaches.
+Coaching teams in Scrum, Kanban, SAFe, and hybrid Agile environments.
+Facilitating PI Planning, Sprint Planning, Daily Scrums, Reviews/Demos, Retrospectives, Backlog Refinement, ART/Program-level coordination, and other planning and delivery conversations.
+Helping teams identify and remove impediments rather than simply documenting them.
+Managing and visualizing dependencies, risks, blockers, and delivery commitments.
+Working with Product Owners to improve backlog health, prioritization, refinement, acceptance criteria, and readiness.
+Helping teams understand capacity, velocity, predictability, flow, and what their metrics are actually telling them.
+Supporting roadmaps, releases, UAT, defects, test planning, release notes, and the less glamorous—but absolutely necessary—parts of getting work over the finish line.
+Working across teams and organizational boundaries when dependencies don't conveniently fit inside a Scrum Team.
+Facilitating difficult conversations when something isn't working rather than allowing Agile ceremonies to become status meetings.
+Helping leadership understand what teams need in order to deliver—and helping teams understand the business outcomes leadership is trying to achieve.
+
+I've also worked within enterprise cybersecurity and cloud environments, including Network and Cloud Security teams operating within a CISO organization and alongside major technology and consulting partners.
+
+### Agile Is NOT a Checklist
+One of the things I've learned over the years is that doing Scrum and being Agile are not the same thing.
+
+You can have every ceremony on the calendar and still not be Agile.
+
+You can have Jira boards, story points, PI Planning, Scrum Masters, Product Owners, and beautiful dashboards—and still have teams drowning in dependencies, unclear priorities, poor refinement, unrealistic commitments, and impediments nobody has the authority to remove.
+
+That's where I like to work.
+
+I ask questions.
+
+Why is this blocked?
+Who owns the decision?
+What problem are we actually trying to solve?
+Does the team understand the WHY?
+Is this really the highest priority?
+What does DONE mean?
+What can we change so we don't have this same conversation next Sprint?
+
+I don't believe in Agile theater.
+
+I believe in using Agile principles and practices pragmatically to help people deliver better.
+
+### 🎓 I Also Never Seem to Stop Learning...
+
+Apparently, collecting certifications and learning new things became one of my hobbies. 😂
+
+My professional certifications and training include PMP, PMI-ACP, CSP-SM, CSP-PO, CSM, CSPO, ICP-ACC, SAFe 6 Agilist, Value Stream Management, DevOps/Agile, Cloud, and Generative AI, among others.
+
+I've deliberately continued learning outside traditional Agile because today's Scrum Masters and Agile leaders need to understand the environment their teams are operating in—even when we're not the engineers building the solution.
+
+That has taken me into cybersecurity, cloud, DevOps, AI, and other technology areas.
+
+And because apparently Agile, cybersecurity, cloud, AI, and project management weren't enough things to learn, I've also been studying taxation through H&R Block and working toward Senior Tax Specialist level. 😄
+
+### ☘️ A Little About Me
+
+I'm originally from Cork, Ireland, and became a U.S. citizen in 2001.
+
+I bring some of that Irish directness with me. I believe you can challenge a process without attacking a person, have difficult conversations without creating drama, and take delivery seriously without taking yourself too seriously. Light hearted personality yet serious when the situation requires it. Very organized, provide virtual/class room training & Workshops on Scrum/Kanban/Agile Estiamtion. Prefer to be embedded with teams to help them grow in their Agile Maturity
+
+I'm collaborative, curious, direct, persistent, and very comfortable asking the question everyone else in the meeting may be thinking but nobody wants to ask.
+
+My favorite Agile environments are the ones where I can get into the meat and potatoes of delivery: working directly with teams, coaching Scrum Masters and Product Owners, untangling dependencies, improving flow, helping teams become more self-sufficient, and leaving things better than I found them.
+
+That's Agile to me.
 
 ---
-
 ### Focus Areas
 
 ##  What I Do
 - Agile transformation & Division/Department coaching (Scrum, Kanban, familiar with SAFe)
 - Product and program delivery 
-- Stakeholder alignment, roadmapping, and change enablement
+- Stakeholder alignment, road mapping, and change enablement
 - Metrics-driven planning, risk management, and continuous improvement
 
 ## Accomplishments
 - Guided global teams from Waterfall → Scrum/Kanban; improved release predictability and team engagement
-- Supported Enterprise CyberSecurity initiative; partnered with execs and security engineers (Cloud/Network, IAM, SIEM, SOC, Risk, Governance Teams) on governance and delivery
+- Supported Enterprise Cyber Security initiative; partnered with execs and security engineers (Cloud/Network, IAM, SIEM, SOC, Risk, Governance Teams) on governance and delivery
 - Led cross-functional delivery with vendors (Accenture, Wiz) to accelerate cloud/security outcomes
 
 ###  Professionally  
 
-- Unfortunaly, I was impacted in June 2025 due to a Company restructuring, (my 7th Mass Layoff in my career) and looking for that next position, where I will add value to teams, product, leadership and the Company
-- Looking for roles with companies that are more secure in times of economic unstability
-- Preference a role within a CyberSecurity, Cloud, Generative AI division/deparment/team
+- - Looking for roles with companies that are more secure in times of economic un stability
+- Prefer a role within a Cyber Security, Cloud, Generative AI division/department/team
   
-
-
 ###  Non-Profit  
 **Key Achievements:**  
 -   Founder Animal Welfare Coalition https://www.vcawc.com/
@@ -58,8 +124,8 @@ Orginally from Ireland, US Citizen since 2001. Light hearted personality yet ser
 - ✅ Introduction to Generative AI
 ### Professional Technical Certifications
 - 🚧 CompTIA Security+  (In Progress)
-- 🚧 CCP - AWS Certified Cloud Practitioner (In Progress)
-- 🚧 H&R Block Income Tax Preparer (In Progress)
+- 🚧 CCP - AWS Certified Cloud Practitioner (ON HOLD)
+- 🚧 Senior Tax Specialist Certification (In Progress)
  
 ### Skills & Tools 
 **Agile Tools** 
@@ -81,8 +147,9 @@ Orginally from Ireland, US Citizen since 2001. Light hearted personality yet ser
 ---
 
 ##  My Projects
-
 Upskilling on all things CyberSecuity, AI and the Cloud
 DevOps, DevSecOps, CI/CD implementaton
+Starting my own Company
+Write a "How to Navigate Autism Services for your child" book
 
 ⬇️ Download Mari’s Info Collector (.bat file)](MarisBatFIle.bat)
