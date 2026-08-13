@@ -6,7 +6,7 @@ I'm an Agile practitioner through and through — Senior Scrum Master, Agile Coa
 
 I have 10+ years of experience working with Agile teams and organizations across healthcare, life sciences, insurance, financial services, cybersecurity, cloud, and other complex enterprise environments. 
 
-Recognized as a self-motivated servant leader with strong emotional intelligence, communication, time management, and interpersonal skills. I’ve guided organizations and cross-functional software teams through Agile adoption and maturity using Scrum, Kanban, XP, and SAFe, including transitioning teams from Waterfall and ad hoc ways of working to more predictable, efficient delivery.
+I'm a self-motivated servant leader with strong emotional intelligence, communication, time management, and interpersonal skills. I've helped organizations and cross-functional software teams adopt and mature their Agile practices using Scrum, Kanban, XP, and SAFe, including transitioning teams from Waterfall and ad hoc ways of working to more predictable, efficient delivery.
 
 But Agile, to me, has never been about running ceremonies.
 
