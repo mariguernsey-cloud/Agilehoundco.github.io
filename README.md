@@ -158,7 +158,7 @@ I'm always happy to connect, compare notes, talk Agile, or hear about an interes
 - 🚧 CCP - AWS Certified Cloud Practitioner (ON HOLD)
 - 🚧 Senior Tax Specialist Certification (In Progress)
  
-##🛠️ Skills & Tools
+## 🛠️ Skills & Tools
 
 ### **Agile Delivery, Coaching & Methodologies**
 
