@@ -191,8 +191,11 @@ Empathetic, Customer-Centric, Self-Motivated, Detail-Oriented, Organized & Colla
 I'm rarely learning or working on just one thing at a time. Current projects and areas I'm exploring include:
 
 🔐 Continuing to upskill in Cybersecurity, AI, Cloud, DevOps, DevSecOps, and CI/CD.
+
 💼 Building Guernsey Professional Services.
+
 📚 Continuing to develop my bookkeeping and tax preparation knowledge through seasonal tax work.
+
 ✍️ Working toward writing a practical guide on "How to Navigate Autism Services for Your Child."
 
 ⬇️ Download Mari’s Info Collector (.bat file)](MarisBatFIle.bat)
