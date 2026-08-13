@@ -121,8 +121,8 @@ I'm always happy to connect, compare notes, talk Agile, or hear about an interes
 ###  Non-Profit  
 **Key Achievements:**  
 -   Founder, Animal Welfare Coalition (AWC) — established a community-based nonprofit focused on animal welfare, resources, education, and support. https://www.vcawc.com/
--   Volunteer of the year 2024 - Valley Center Center District (Part of San Diego County, California)
--   Community Emergency Response Team (CERT) – Volunteer 
+-   Volunteer of the year 2024 - community-voted recognition awarded by the Valley Center Business Association. (Part of San Diego County, California)
+-   Community Emergency Response Team (CERT) Volunteer 
 
 ###  Higher Education  
 - Post Graduate, Software Engineering, University College Cork Ireland
