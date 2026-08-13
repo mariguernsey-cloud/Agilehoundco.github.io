@@ -17,16 +17,26 @@ I've worked hands-on with Scrum Masters, Product Owners, Product Managers, Engin
 
 That has included:
 
---Coaching Scrum Masters and helping them grow beyond being meeting facilitators into true servant leaders and coaches.
---Coaching teams in Scrum, Kanban, SAFe, and hybrid Agile environments.
+-Coaching Scrum Masters and helping them grow beyond being meeting facilitators into true servant leaders and coaches.
+
+-Coaching teams in Scrum, Kanban, SAFe, and hybrid Agile environments.
+
 -Facilitating PI Planning, Sprint Planning, Daily Scrums, Reviews/Demos, Retrospectives, Backlog Refinement, ART/Program-level coordination, and other planning and delivery conversations.
+
 -Helping teams identify and remove impediments rather than simply documenting them.
+
 -Managing and visualizing dependencies, risks, blockers, and delivery commitments.
+
 -Working with Product Owners to improve backlog health, prioritization, refinement, acceptance criteria, and readiness.
+
 -Helping teams understand capacity, velocity, predictability, flow, and what their metrics are actually telling them.
+
 -Supporting roadmaps, releases, UAT, defects, test planning, release notes, and the less glamorous—but absolutely necessary—parts of getting work over the finish line.
+
 -Working across teams and organizational boundaries when dependencies don't conveniently fit inside a Scrum Team.
+
 -Facilitating difficult conversations when something isn't working rather than allowing Agile ceremonies to become status meetings.
+
 -Helping leadership understand what teams need in order to deliver—and helping teams understand the business outcomes leadership is trying to achieve.
 
 I've also worked within enterprise cybersecurity and cloud environments, including Network and Cloud Security teams operating within a CISO organization and alongside major technology and consulting partners.
