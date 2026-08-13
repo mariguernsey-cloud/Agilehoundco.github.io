@@ -1,6 +1,6 @@
 ##  About Me
 
-Hello, I’m Mari (Marie-Louise)
+👋 Hello, I’m Mari (Marie-Louise)
 
 I'm an Agile practitioner through and through — Senior Scrum Master, Agile Coach, Agile Delivery Lead, Project/Program Manager, and occasionally the person asking, “Why exactly are we doing it this way?” 😄
 
@@ -12,7 +12,7 @@ But Agile, to me, has never been about running ceremonies.
 
 It's about people, flow, transparency, predictability, continuous improvement, and delivering something that actually provides value.
 
-### The meat and potatoes
+### 🥩 The meat and potatoes
 I've worked hands-on with Scrum Masters, Product Owners, Product Managers, Engineering teams, Security teams, business partners, vendors, and leadership.
 
 That has included:
@@ -41,7 +41,7 @@ That has included:
 
 I've also worked within enterprise cybersecurity and cloud environments, including Network and Cloud Security teams operating within a CISO organization and alongside major technology and consulting partners.
 
-### Agile Is NOT a Checklist
+### 🧠 Agile Is NOT a Checklist
 One of the things I've learned over the years is that doing Scrum and being Agile are not the same thing.
 
 You can have every ceremony on the calendar and still not be Agile.
