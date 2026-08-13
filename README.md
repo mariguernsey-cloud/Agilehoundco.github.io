@@ -198,4 +198,4 @@ I'm rarely learning or working on just one thing at a time. Current projects and
 
 ✍️ Working toward writing a practical guide on "How to Navigate Autism Services for Your Child."
 
-⬇️ Download Mari’s Info Collector (.bat file)](MarisBatFIle.bat)
+⬇️ Download Mari’s Info Collector (.bat file)
