@@ -101,7 +101,7 @@ That's Agile to me.
 
 ## Accomplishments
 - Guided global teams from Waterfall → Scrum/Kanban; improved release predictability and team engagement
-- Supported Enterprise Cyber Security initiative; partnered with execs and security engineers (Cloud/Network, IAM, SIEM, SOC, Risk, Governance Teams) on governance and delivery
+- SSupported enterprise Cybersecurity initiatives, partnering with executives and security teams across Cloud/Network Security, IAM, SIEM, SOC, Risk, and Governance to support coordination and delivery.
 - Coordinated and facilitated cross-functional delivery with vendors including Accenture and Wiz, managing dependencies, priorities, communication, and follow-through across cloud and cybersecurity initiatives.
 - Selected in 2025 as one of seven team members for Cargill's newly created Enterprise Agile Coaching department.
 - Successfully trained teams on Agile Estimation techniques and practices
