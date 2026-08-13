@@ -93,11 +93,20 @@ My favorite Agile environments are the ones where I can get into the meat and po
 That's Agile to me.
 
 ---
-##  What I Do
-- Agile transformation & Division/Department coaching (Scrum, Kanban, familiar with SAFe)
-- Product and program delivery 
-- Stakeholder alignment, road mapping, and change enablement
-- Metrics-driven planning, risk management, and continuous improvement
+##  🎯 What I Do
+**Agile Coaching & Scrum Mastery** — Coach Scrum Masters, Product Owners, teams, and leaders to strengthen Agile practices, accountability, collaboration, and self-sufficiency.
+
+**Delivery & Program Coordination** — Keep complex work moving across multiple teams, stakeholders, vendors, dependencies, risks, impediments, and competing priorities.
+
+**Agile Transformation & Team Maturity** — Help teams move from Waterfall and ad hoc ways of working toward practical Scrum, Kanban, SAFe, and hybrid Agile approaches that fit the organization.
+
+**Product & Backlog Partnership** — Partner with Product Owners and stakeholders on prioritization, roadmaps, refinement, acceptance criteria, readiness, and delivery expectations.
+
+**Flow, Metrics & Predictability** — Use capacity, velocity, flow, delivery metrics, and retrospectives to identify problems, improve predictability, and support continuous improvement — never to weaponize metrics against teams.
+
+**Facilitation & Alignment** — Facilitate team ceremonies, workshops, PI Planning, cross-team coordination, and the difficult conversations needed to resolve dependencies, priorities, impediments, and misalignment.
+
+**End-to-End Delivery** — Comfortable getting into the less glamorous parts of delivery too: UAT, QA, defects, testing, release coordination, requirements, risk management, and getting work across the finish line.
 
 ## Accomplishments
 - Helped transition teams from Waterfall and ad hoc ways of working to Scrum and Kanban, establishing more structured, transparent, and predictable delivery practices.
@@ -149,38 +158,38 @@ I'm always happy to connect, compare notes, talk Agile, or hear about an interes
 - 🚧 CCP - AWS Certified Cloud Practitioner (ON HOLD)
 - 🚧 Senior Tax Specialist Certification (In Progress)
  
-🛠️ Skills & Tools
+##🛠️ Skills & Tools
 
-##Agile Delivery, Coaching & Methodologies
+### **Agile Delivery, Coaching & Methodologies**
 
 Scrum, Kanban, SAFe, XP (eXtreme Programming), TDD, ATDD, BDD
 Agile Coaching, Servant Leadership, Agile Estimation, Facilitation, Continuous Improvement
 Backlog Refinement, Sprint Planning, Reviews/Demos, Retrospectives, PI Planning
 Dependency & Impediment Management, Capacity & Velocity, Delivery Predictability
 
-## Agile & Delivery Tools
+### **Agile & Delivery Tools**
 
 Jira, Confluence, Azure DevOps (TFS), Rally, Mural, Trello
 
-## Project, Program & Business Delivery
+### Project, Program & Business Delivery
 
 Project/Program Management, Stakeholder Management, Vendor Management
 Requirements Gathering, Business Analysis, Risk & Dependency Management
 UAT, Quality Assurance, Release Coordination, Defect Management
 Microsoft Project, QuickBase, Salesforce, Excel, Visio
 
-## Testing, QA & Technical Tools
+### Testing, QA & Technical Tools
 
 Microsoft Visual Studio, Test Director, Bug Collector, Benthic, WinSCP
 SQL Server, Toad, SailPoint
 Version Control, StarTeam, Visual SourceSafe
 
-## Collaboration & Communication
+### Collaboration & Communication
 
 Microsoft Teams, SharePoint, Zoom, Outlook, PowerPoint, Word, Jive
 Virtual & Classroom Training, Workshop Facilitation, Executive & Stakeholder Communication
 
-## Leadership & People Skills
+### Leadership & People Skills
 
 Coaching & Mentoring, Conflict Resolution, Active Listening, Critical Thinking
 Problem Solving, Decision Making, Interviewing, Employee/Consultant Onboarding & Offboarding
