@@ -6,7 +6,7 @@ I'm an Agile practitioner through and through — Senior Scrum Master, Agile Coa
 
 I have 10+ years of experience working with Agile teams and organizations across healthcare, life sciences, insurance, financial services, cybersecurity, cloud, and other complex enterprise environments. 
 
-Recognized as a self-motivated servant leader, with strong Emotional Intelligence, Communication Skills, Time Management, and Interpersonal Skills, adept at guiding organizations and cross-functional software teams through Agile adoption and maturity using Scrum, Kanban, XP, and SAFe frameworks, with a proven ability to transition teams from Waterfall or ad hoc practices to predictable, efficient delivery
+Recognized as a self-motivated servant leader with strong emotional intelligence, communication, time management, and interpersonal skills. I’ve guided organizations and cross-functional software teams through Agile adoption and maturity using Scrum, Kanban, XP, and SAFe, including transitioning teams from Waterfall and ad hoc ways of working to more predictable, efficient delivery.
 
 But Agile, to me, has never been about running ceremonies.
 
@@ -70,7 +70,11 @@ And because apparently Agile, cybersecurity, cloud, AI, and project management w
 
 I'm originally from Cork, Ireland, and became a U.S. citizen in 2001.
 
-I bring some of that Irish directness with me. I believe you can challenge a process without attacking a person, have difficult conversations without creating drama, and take delivery seriously without taking yourself too seriously. Light hearted personality yet serious when the situation requires it. Very organized, provide virtual/class room training & Workshops on Scrum/Kanban/Agile Estiamtion. Prefer to be embedded with teams to help them grow in their Agile Maturity
+I bring some of that Irish directness with me. I believe you can challenge a process without attacking a person, have difficult conversations without creating drama, and take delivery seriously without taking yourself too seriously.
+
+I have a light-hearted personality, but I know when a situation requires seriousness. I'm highly organized and enjoy providing virtual and classroom training and workshops on Scrum, Kanban, Agile Estimation, and Agile ways of working.
+
+Most of all, I prefer to be embedded with teams rather than coaching from the sidelines. I want to understand how they actually work, help them solve real problems, and support them as they grow in their Agile maturity.
 
 I'm collaborative, curious, direct, persistent, and very comfortable asking the question everyone else in the meeting may be thinking but nobody wants to ask.
 
@@ -79,8 +83,6 @@ My favorite Agile environments are the ones where I can get into the meat and po
 That's Agile to me.
 
 ---
-### Focus Areas
-
 ##  What I Do
 - Agile transformation & Division/Department coaching (Scrum, Kanban, familiar with SAFe)
 - Product and program delivery 
@@ -91,6 +93,8 @@ That's Agile to me.
 - Guided global teams from Waterfall → Scrum/Kanban; improved release predictability and team engagement
 - Supported Enterprise Cyber Security initiative; partnered with execs and security engineers (Cloud/Network, IAM, SIEM, SOC, Risk, Governance Teams) on governance and delivery
 - Led cross-functional delivery with vendors (Accenture, Wiz) to accelerate cloud/security outcomes
+- Was picked at Cargill in 2025 as one of 7, team members in the newly created enterprise Agile coaching Department
+- Successfully train teams on Agile Estimation
 
 ###  Professionally  
 
@@ -107,12 +111,12 @@ I'm always happy to connect, compare notes, talk Agile, or hear about an interes
 ###  Non-Profit  
 **Key Achievements:**  
 -   Founder Animal Welfare Coalition https://www.vcawc.com/
--   Volunteer of the year 2024 - Valley Center Center District (Part of San Diego County, Caliornia)
+-   Volunteer of the year 2024 - Valley Center Center District (Part of San Diego County, California)
 -   Community Emergency Response Team (CERT) – Volunteer 
 
 ###  Higher Education  
-- Post Graduate, Software Engineering, Univesity College Cork Ireland
-- B.Sc Business Management, Trinity College, Dublin Ireland
+- Post Graduate, Software Engineering, University College Cork Ireland
+- B.Sc. Business Management, Trinity College, Dublin Ireland
 
 ---
 ##  Technical Skills & Certifications
