@@ -197,5 +197,3 @@ I'm rarely learning or working on just one thing at a time. Current projects and
 📚 Continuing to develop my bookkeeping and tax preparation knowledge through seasonal tax work.
 
 ✍️ Working toward writing a practical guide on "How to Navigate Autism Services for Your Child."
-
-⬇️ Download Mari’s Info Collector (.bat file)
