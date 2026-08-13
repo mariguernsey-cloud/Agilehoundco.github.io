@@ -17,8 +17,8 @@ I've worked hands-on with Scrum Masters, Product Owners, Product Managers, Engin
 
 That has included:
 
--Coaching Scrum Masters and helping them grow beyond being meeting facilitators into true servant leaders and coaches.
--Coaching teams in Scrum, Kanban, SAFe, and hybrid Agile environments.
+--Coaching Scrum Masters and helping them grow beyond being meeting facilitators into true servant leaders and coaches.
+--Coaching teams in Scrum, Kanban, SAFe, and hybrid Agile environments.
 -Facilitating PI Planning, Sprint Planning, Daily Scrums, Reviews/Demos, Retrospectives, Backlog Refinement, ART/Program-level coordination, and other planning and delivery conversations.
 -Helping teams identify and remove impediments rather than simply documenting them.
 -Managing and visualizing dependencies, risks, blockers, and delivery commitments.
