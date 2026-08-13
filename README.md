@@ -103,7 +103,7 @@ That's Agile to me.
 - Guided global teams from Waterfall → Scrum/Kanban; improved release predictability and team engagement
 - Supported Enterprise Cyber Security initiative; partnered with execs and security engineers (Cloud/Network, IAM, SIEM, SOC, Risk, Governance Teams) on governance and delivery
 - Led cross-functional delivery with vendors (Accenture, Wiz) to accelerate cloud/security outcomes
-- Was picked at Cargill in 2025 as one of 7, team members in the newly created enterprise Agile coaching Department
+- Selected in 2025 as one of seven team members for Cargill's newly created Enterprise Agile Coaching department.
 - Successfully train teams on Agile Estimation
 
 ###  Professionally  
