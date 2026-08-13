@@ -1,3 +1,6 @@
+
+![AgileHound - Mari Guernsey](ChatGPT%20Image%20Aug%2013%2C%202026%2C%2010_04_16%20AM.png)
+
 ##  About Me
 
 👋 Hello, I’m Mari (Marie-Louise)
