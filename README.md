@@ -173,27 +173,29 @@ Jira, Confluence, Azure DevOps (TFS), Rally, Mural, Trello
 
 ### Project, Program & Business Delivery
 
-Project/Program Management, Stakeholder Management, Vendor Management
-Requirements Gathering, Business Analysis, Risk & Dependency Management
-UAT, Quality Assurance, Release Coordination, Defect Management
-Microsoft Project, QuickBase, Salesforce, Excel, Visio
+- Project/Program Management, Stakeholder Management, Vendor Management
+- Requirements Gathering, Business Analysis, Risk & Dependency Management
+- UAT, Quality Assurance, Release Coordination, Defect Management
+- Microsoft Project, QuickBase, Salesforce, Excel, Visio
 
 ### Testing, QA & Technical Tools
 
-Microsoft Visual Studio, Test Director, Bug Collector, Benthic, WinSCP
-SQL Server, Toad, SailPoint
-Version Control, StarTeam, Visual SourceSafe
+- Microsoft Visual Studio, Test Director, Bug Collector, Benthic, WinSCP
+- SQL Server, Toad, SailPoint
+- Version Control, StarTeam, Visual SourceSafe
 
 ### Collaboration & Communication
 
-Microsoft Teams, SharePoint, Zoom, Outlook, PowerPoint, Word, Jive
-Virtual & Classroom Training, Workshop Facilitation, Executive & Stakeholder Communication
+= Microsoft Teams, SharePoint, Zoom, Outlook, PowerPoint, Word, Jive
+= Virtual & Classroom Training, Workshop Facilitation, Executive & Stakeholder Communication
 
 ### Leadership & People Skills
 
-Coaching & Mentoring, Conflict Resolution, Active Listening, Critical Thinking
-Problem Solving, Decision Making, Interviewing, Employee/Consultant Onboarding & Offboarding
-Empathetic, Customer-Centric, Self-Motivated, Detail-Oriented, Organized & Collaborative
+- Coaching & Mentoring, Servant Leadership, Stakeholder Management
+- Conflict Resolution, Facilitation, Active Listening, Interpersonal Communication
+- Critical Thinking, Problem Solving, Decision Making
+= Interviewing, Employee & Consultant Onboarding/Offboarding
+= Empathetic, Customer-Centric, Self-Motivated, Detail-Oriented, Organized & Collaborative
 ---
 
 ## 🚀 My Projects
