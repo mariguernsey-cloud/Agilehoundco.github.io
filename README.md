@@ -132,6 +132,7 @@ I'm always happy to connect, compare notes, talk Agile, or hear about an interes
 ##  Technical Skills & Certifications
 
 ### Professional Agile & Leadership Certifications  
+- ✅ Advanced Agility / Value Stream Mapping, SAFe by Scaled Agile, Inc 
 - ✅ CAL-1 - Certified Agile Leader 1
 - ✅ SA -	SAFe 6 Agilist
 - ✅ ICP-ACC - ICAgile Certified Professional
