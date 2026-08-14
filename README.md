@@ -15,6 +15,15 @@ But Agile, to me, has never been about running ceremonies.
 
 It's about people, flow, transparency, predictability, continuous improvement, and delivering something that actually provides value.
 
+### 🐾 Why AgileHound?
+
+Why AgileHound? Because good Agile delivery sometimes requires a little hound-like persistence. I have a habit of sniffing out impediments, chasing down dependencies, digging into delivery problems, and not letting go until we understand what's really getting in the team's way.
+
+It's not about chasing process for the sake of process. It's about helping people, improving flow, solving the problems that matter, and ultimately delivering real value.
+
+Sniff out impediments. Chase down dependencies. Deliver real value. 🐾
+
+
 ### 🥩 The meat and potatoes
 I've worked hands-on with Scrum Masters, Product Owners, Product Managers, Engineering teams, Security teams, business partners, vendors, and leadership.
 
